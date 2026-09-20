@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img width="1280" height="720" alt="photo_2026-06-10_17-37-31" src="https://github.com/user-attachments/assets/352de1ae-f9ad-404f-a198-b465d0814ba4" />
 <!--
 **sayzex/sayzex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
