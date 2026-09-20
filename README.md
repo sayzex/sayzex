@@ -7,9 +7,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sayzex&label=Profile%20views&color=0e75b6&style=flat" alt="sayzex" />
 </p>
-
 about
-
 <br>
     
 - 17-year-old software engineer, Low-level enthusiast — C, memory, I like Linux. I use Arch, btw.
