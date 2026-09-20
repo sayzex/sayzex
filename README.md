@@ -1,6 +1,5 @@
 <img width="1280" height="720" alt="photo_2026-06-23_19-26-07" src="https://github.com/user-attachments/assets/475341b3-17d6-4204-b16d-f09248396033" />
 
-
 # Hi 👋, I'm sayzex
 
 ### A passionate developer from around the world
