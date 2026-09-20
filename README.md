@@ -1,5 +1,4 @@
-<img width="1280" height="720" alt="photo_2026-08-15_08-38-51" src="https://github.com/user-attachments/assets/edf4e318-e351-4bef-bbde-017f87ccba43" />
-
+<img width="1280" height="720" alt="photo_2026-04-29_13-37-56" src="https://github.com/user-attachments/assets/17e60e79-4d2e-4c37-b55f-5fe12be10daa" />
 
 # Hi 👋, I'm sayzex
 
