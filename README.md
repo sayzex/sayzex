@@ -16,7 +16,6 @@ about
 
 ---
 
-- 🔭 I'm currently working on **my own logic and projects**
 - 🛠 Already built my own **internal & kernel cheat for PUBG Mobile**
 - 🌱 I'm currently learning **C / raylib / Rust / Go**
 - 🛠 Experience with low-level systems programming: **memory internals, kernel modules**
