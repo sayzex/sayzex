@@ -21,7 +21,6 @@ about
 - 🔭 I'm currently working on **my own logic and projects**
 - 🛠 Already built my own **internal & kernel cheat for PUBG Mobile**
 - 🌱 I'm currently learning **C / raylib / Rust / Go**
-- 📚 Self-taught — learning by building, breaking, and rebuilding things
 - 🛠 Experience with low-level systems programming: **memory internals, kernel modules**
 - 📫 How to reach me: **wipesayzex@gmail.com**
 - ⚡ Real fact: **Jesus Christ is God! God bless you!**
