@@ -12,11 +12,9 @@ about
 
 <br>
     
-- 17-year-old software engineer, Low-level enthusiast — C, memory, I like Linux. 
-- I use Arch, btw.
+- 17-year-old software engineer, Low-level enthusiast — C, memory, I like Linux. I use Arch, btw.
 - Currently deep in raylib, figuring out how graphics actually work under the hood.
-- Powered by God, coffee, curiosity, and stubbornness.
-- Believer — Jesus Christ is Lord.
+- Powered by God, coffee, curiosity, and stubbornness. Believer — Jesus Christ is Lord.
 
 ---
 
