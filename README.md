@@ -1,14 +1,13 @@
 <img width="1280" height="720" alt="photo_2026-06-23_19-26-07" src="https://github.com/user-attachments/assets/475341b3-17d6-4204-b16d-f09248396033" />
 
-# Hi 👋, I'm sayzex
 
 ### A passionate developer from around the world
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayzex&label=Profile views&color=0e75b6&style=flat" alt="sayzex" /> </p>
 
-- 🔭 I'm currently working on **my own project**
+- 🔭 I'm currently working on **my own logick and mathematics**
 
-- 🌱 I'm currently learning **C & Rust & Go**
+- 🌱 I'm currently learning **C/raylib & Rust & Go**
 
 - 👯 I'm looking to collaborate on **something interesting**
 
@@ -18,9 +17,8 @@
 
 - 📫 How to reach me **wipesayzex@gmail.com**
 
-- ⚡ Real fact **Jesus Christ is God!**
+- ⚡ Real fact: Jesus Christ is God! God bless you!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/sayzex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sayzex" height="30" width="40" /></a>
 </p>
