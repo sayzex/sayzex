@@ -12,13 +12,14 @@ about
 
 <br>
     
-- 17-year-old software engineer
+- 17-year-old software engineer, Low-level enthusiast — C, memory, I like Linux. I use Arch, btw.
 
 ---
 
 - 🔭 I'm currently working on **my own logic and projects**
 - 🛠 Already built my own **internal & kernel cheat for PUBG Mobile**
 - 🌱 I'm currently learning **C / raylib / Rust / Go**
+- - 🛠 Experience with low-level systems programming: **memory internals, kernel modules**
 - 📫 How to reach me: **wipesayzex@gmail.com**
 - ⚡ Real fact: **Jesus Christ is God! God bless you!**
 
